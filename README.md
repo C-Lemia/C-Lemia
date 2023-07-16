@@ -1,6 +1,6 @@
 # 🔭 About Me:
-👀 Atualmente sou estudante da área de Estatística, com pós graduação em Data Science e Administração de Banco de Dados.
- Tentando aplicar aqui minhas habilidades técnicas e conhecimentos em ciência de dados, aprendizado de máquina e análise estatística.
+Atualmente sou estudante da área de Estatística, com pós graduação em Data Science e Administração de Banco de Dados.
+Tentando aplicar aqui minhas habilidades técnicas e conhecimentos em ciência de dados, aprendizado de máquina e análise estatística.
   
   🌱 Data Science...R...Python...Machine Learning...
 
