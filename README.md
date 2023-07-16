@@ -1,7 +1,7 @@
 # 🔭 About Me:
 👀 Atualmente sou estudante da área de Estatística, com pós graduação em Data Science e Administração de Banco de Dados.
- Tentando aplicar aqui minhas habilidades técnicas e conhecimentos em ciência de dados, aprendizado de máquina e análise estatística em 
- 🌱 Data Science...R...Python...Machine Learning...
+ Tentando aplicar aqui minhas habilidades técnicas e conhecimentos em ciência de dados, aprendizado de máquina e análise estatística.
+  🌱 Data Science...R...Python...Machine Learning...
 
 <img align="right" alt="coding" width="400" src="https://proxy.olhardigital.com.br/wp-content/uploads/2023/05/redes-neurais-artificiais-como-funcionam-1024x577.jpg">
 
